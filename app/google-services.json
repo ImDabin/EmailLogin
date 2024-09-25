@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948682611388",
+    "project_id": "login-1597e",
+    "storage_bucket": "login-1597e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948682611388:android:c35a39ae867fbe006c0eb9",
+        "android_client_info": {
+          "package_name": "com.dabin.emaillogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALMFmC0JU48lb1UVwDP0JdPcTl8N14-jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948682611388:android:ffe523b0061ee1826c0eb9",
+        "android_client_info": {
+          "package_name": "com.example.login_logic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALMFmC0JU48lb1UVwDP0JdPcTl8N14-jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
